@@ -11,7 +11,7 @@
 
 
 
-#define JSHARE_VERSION_NUMBER 1.6.0
+#define JSHARE_VERSION_NUMBER 1.8.1
 
 #import <Foundation/Foundation.h>
 
